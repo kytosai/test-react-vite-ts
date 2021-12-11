@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import '@/less/index.less';
+// import '@/less/index.less';
+import 'antd/dist/antd.less';
 import { buildUrl } from '@/helpers/url';
 
 function App() {
